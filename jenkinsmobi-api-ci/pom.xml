@@ -11,7 +11,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.10</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
-			<version>4.2-beta1</version>
+			<version>4.5.13</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
-			<version>1.7.2</version>
+			<version>1.23.2</version>
 		</dependency>
 	</dependencies>
 	<build>
